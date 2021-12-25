@@ -1,6 +1,8 @@
 # Requisições Ajax com jQuery  
 ## devwilliam (William Francisco Leite)  
 
+### [Vídeo da aula](https://www.youtube.com/watch?v=wWqi4yVWhc4&t=349s)
+
 ###  Tópicos  
 
 Exemplo 1 – Sem banco de dados  
